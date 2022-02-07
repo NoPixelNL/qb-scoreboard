@@ -1,6 +1,5 @@
 # qb-scoreboard
 Scoreboard for QB-Core
-Test 1234
 
 # License
 
